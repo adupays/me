@@ -1,0 +1,11 @@
+Gemfile.lock
+*.gem
+*.swp
+_site/
+_src/
+.DS_Store
+.ruby-version
+.ruby-gemset
+.sass-cache
+.jekyll-metadata
+Status API Training Shop Blog About Pricing
