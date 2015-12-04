@@ -1,0 +1,54 @@
+/**
+* Elements
+*/
+
+.divider {
+  border-top: 5px solid $border-color;
+  margin: 50px auto;
+}
+
+.icons {
+  margin: 30px auto 40px;
+  text-align: center;
+  img {
+    width: 100px;
+  }
+}
+
+.header-page {
+  margin-bottom: 50px;
+}
+
+ .section-body {
+   margin-top: 25px;
+ }
+
+.btn-primary {
+  &, &:visited {
+    color: #fff;
+    background-color: $primary-color;
+    border-color: $primary-color;
+  }
+  &:hover, &:focus, &:active {
+    color: $primary-color;
+    background-color: #fff;
+    border-color: $primary-color;
+  }
+}
+
+/**
+* Resume
+*/
+
+.section {
+  h3 + h3, h3 + h4 {
+    color: $primary-color;
+    margin-top: -15px;
+  }
+  .section-item {
+    margin-bottom: 30px;
+  }
+  .section-title {
+    color: $brand-color;
+  }
+}
