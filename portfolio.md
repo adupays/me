@@ -14,7 +14,7 @@ order: 2
   <div class="row header-page">
     <div class="col-md-12">
       <p>
-        Vous trouverez, ci-dessous, des exemples d'intégration de sites web auxquelles j'ai participé. Si vous êtes plutôt à la recherche de code, je vous invite à consulter mon compte <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a> !
+        Vous trouverez, ci-dessous, des exemples d'intégration de sites web auxquelles j'ai participé. Si vous êtes plutôt à la recherche de code, je vous invite à consulter mon compte <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a> ! Je fais également partie de la communauté <a href="http://www.freecodecamp.com/">Free Code Camp</a>, que j'ai rejoint pour améliorer mes compétences en développement ainsi qu'échanger avec d'autres développeurs. <a href="http://www.freecodecamp.com/adupays">Voir mon profil Free Code Camp</a>.
       </p>
     </div>
   </div>
