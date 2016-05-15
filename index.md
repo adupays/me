@@ -26,14 +26,14 @@ layout: default
       <p>
         <strong>Ma boîte à outils</strong> :
         <ul>
-          <li><strong>JavaScript</strong> => ES2015, jQuery et bientôt Angular.js et React.js (en cours d'apprentissage)</li>
-          <li>Browserify => pour require(), à la manière de Node.js, des modules npm côté navigateur</li>
-          <li>Git => pour versionner mes projets</li>
-          <li><strong>HTML5/CSS3</strong> et <strong>Bootstrap</strong> => pour intégrer de manière <strong>responsive</strong> et <strong>cross-browser</strong> les pages web</li>
-          <li>Photoshop, Illustrator et InDesign => pour manipuler les éléments transmis par les graphistes ou, plus occasionnellement, créer mes propres maquettes</li>
-          <li>Les indispensables : Sublime Text, un Macbook Pro et le Terminal</li>
+          <li><strong>JavaScript</strong> : ES2015, React, Redux, jQuery</li>
+          <li>Webpack, Gulp ou Browserify : pour des applications modulaires et l'automatisation des tâches</li>
+          <li>Git : pour versionner mes projets</li>
+          <li><strong>HTML5, CSS3</strong> et <strong>Bootstrap</strong> : pour intégrer de manière <strong>responsive</strong> et <strong>cross-browser</strong> les pages web</li>
+          <li>Photoshop, Illustrator et InDesign : pour manipuler les éléments transmis par les graphistes ou, plus occasionnellement, créer mes propres maquettes</li>
+          <li>Les indispensables : Atom ou PhpStorm et le Terminal</li>
         </ul>
-      </p>  
+      </p>
       <p>
         Vous souhaitez en savoir plus ? <a href="{{ "/assets/cv-amandine-dupays.pdf/" | prepend: site.url }}" target="_blank">Téléchargez mon CV</a> ou <a href="{{ "/contact/" | prepend: site.url }}">écrivez-moi</a>.
       </p>

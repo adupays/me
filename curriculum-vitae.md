@@ -12,9 +12,26 @@ order: 1
       <img src="{{ '/img/bag.png' | prepend: site.url }}" alt="Expériences Professionnelles" data-toggle="tooltip" data-placement="right" title="Expériences Professionnelles">
     </div>
   </div>
+
   <div class="row section-item">
     <div class="col-xs-12 col-sm-4">
-      <h4>2014 - Présent</h4>
+      <h4>2016 - Présent</h4>
+    </div>
+    <div class="col-xs-12 col-sm-8">
+      <h3 class="section-title"><a target="_blank" href="http://movepublishing.com/">MOVE PUBLISHING</a></h3>
+      <h3>Développeuse Front-End</h3>
+      <p>Move Publishing est l’un des premiers groupes d’information média à centres d’intérêts en France.</p>
+      <ul>
+        <li>Création d'un CMS propriétaire : JavaScript (ES2015), React, Redux, React Bootstrap et jQuery</li>
+        <li>Développement de la partie Front-End du site <a target="_blank" href="https://www.mycamping.com/fr">MYCAMPING.COM</a> : JavaScript (ES2015) et jQuery</li>
+        <li>Développement de la partie Front-End du site <a target="_blank" href="http://www.lecycle.fr/">LE CYCLE</a> : JavaScript (ES2015) et jQuery</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row section-item">
+    <div class="col-xs-12 col-sm-4">
+      <h4>2014 - 2016</h4>
     </div>
     <div class="col-xs-12 col-sm-8">
       <h3 class="section-title"><a target="_blank" href="http://www.applidget.com">APPLIDGET</a></h3>
@@ -61,7 +78,7 @@ order: 1
   </div>
 
   <hr class="divider">
-  
+
   <div class="row">
     <div class="col-md-12 icons">
       <img src="{{ '/img/certificate.png' | prepend: site.url }}" data-toggle="tooltip" data-placement="right" title="Formations">
@@ -101,7 +118,7 @@ order: 1
       <p>Mention Assez bien, Option Anglais</p>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-md-12 text-right">
       <a target="_blank" href="{{ '/assets/cv-amandine-dupays.pdf' | prepend: site.url }}" class="btn btn-lg btn-primary">Version PDF</a>
