@@ -18,7 +18,7 @@ layout: default
         Mon métier consiste à transformer des maquettes et designs en pages web en travaillant plus particulièrement sur l'<strong>intéractivité</strong> et <strong>l'expérience utilisateur</strong>.
       </p>
       <p>
-        Je suis sensibilisée aux problèmatiques d'<strong>accessibilité du web</strong>, dans le but d'apporter une expérience ergonomique et fonctionnelle quelques soient le navigateur, le système d'exploitation et l'appareil utilisés pour accéder aux contenus en ligne.
+        Je suis sensibilisée aux problèmatiques d'<strong>accessibilité du web</strong>, dans le but d'apporter une expérience ergonomique et fonctionnelle quels que soient le navigateur, le système d'exploitation et l'appareil utilisés pour accéder aux contenus en ligne.
       </p>
       <p>
       Créative et force de proposition, j'apprécie collaborer avec les graphistes et les autres développeurs pour créer ensemble des logiciels, sites et applications aboutis.
