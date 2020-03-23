@@ -35,7 +35,7 @@ layout: default
         </ul>
       </p>
       <p>
-        Vous souhaitez en savoir plus ? <a href="{{ "/assets/cv-amandine-dupays.pdf/" | prepend: site.url }}" target="_blank">Téléchargez mon CV</a> ou <a href="{{ "/contact/" | prepend: site.url }}">écrivez-moi</a>.
+        Vous souhaitez en savoir plus ? <a href="{{ "/assets/cv-amandine-dupays.pdf" | prepend: site.url }}" target="_blank">Téléchargez mon CV</a> ou <a href="{{ "/contact/" | prepend: site.url }}">écrivez-moi</a>.
       </p>
     </div>
   </div>
